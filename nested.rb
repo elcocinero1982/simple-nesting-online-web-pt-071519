@@ -3,11 +3,11 @@ def hopper
 	programmer_hash = 
  		{
         :grace_hopper => {
-          :known_for => "COBOL",
+          :known_for => 
           :languages => ["COBOL", "FORTRAN"]
         },
         :alan_kay => {
-          :known_for => 
+          :known_for => "COBOL",
           :languages => ["Smalltalk", "LISP"]
         },
         :dennis_ritchie => {
