@@ -8,7 +8,7 @@ def hopper
         },
         :alan_kay => {
           :known_for => "COBOL",
-          :languages => 
+          :languages => ["COBOL", "FORTRAN"]
         },
         :dennis_ritchie => {
           :known_for => "Unix",
