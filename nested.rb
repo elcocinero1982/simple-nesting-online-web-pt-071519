@@ -4,11 +4,11 @@ def hopper
  		{
         :grace_hopper => {
           :known_for => 
-          :languages => ["COBOL", "FORTRAN"]
+          :languages => 
         },
         :alan_kay => {
           :known_for => "COBOL",
-          :languages => ["Smalltalk", "LISP"]
+          :languages => 
         },
         :dennis_ritchie => {
           :known_for => "Unix",
